@@ -63,5 +63,3 @@ streamlit run app.py
 🤝 Contributing
 Want to improve this project? Feel free to open an issue or submit a PR!
 
-📄 License
-This project is licensed under the MIT License.
