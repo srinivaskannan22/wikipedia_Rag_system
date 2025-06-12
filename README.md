@@ -29,7 +29,7 @@ Wikipedia API
 bash
 Copy
 Edit
-git clone https://github.com/srinivaskannan22/llM_project.git
+git clone https://github.com/srinivaskannan22/wikipedia_Rag_system.git
 🔹 2. Install Dependencies
 bash
 Copy
@@ -60,6 +60,5 @@ streamlit run app.py
 🚀 Optimize retrieval for faster response times
 🚀 Improve LLM prompts for more precise answers
 
-🤝 Contributing
-Want to improve this project? Feel free to open an issue or submit a PR!
+
 
